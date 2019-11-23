@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "demo",
+    "name": "ReactNativeApp",
     "slug": "rn-first-app",
     "privacy": "public",
     "sdkVersion": "35.0.0",
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "React Native Demos",
+    "githubUrl": "https://github.com/tejasgawali4/ReactNativeApp.git"
   }
 }
